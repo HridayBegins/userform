@@ -59,13 +59,4 @@ Entries are saved to Sheet1:
 - Macros enabled
 - Developer tab visible (File → Options → Customize Ribbon → Developer)
 
-## VBA Structure
-Project
-├── Module1 (Launch Module)
-│   └── Sub ShowUserForm() — Press F5 to run
-└── UserForm4
-├── NameTextBox (TextBox)
-├── AgeTextBox (TextBox)
-├── CityTextBox (TextBox)
-├── AddButton (CommandButton)
-└── ResetButton (CommandButton)
+
